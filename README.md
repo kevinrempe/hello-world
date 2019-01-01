@@ -6,4 +6,4 @@ To manage all the versions of Hello World I will be writing, I will need a way t
 So I must learn to tame the monster called GIT!
 
 
-We are going to add about 1000 more versions of hello world.  We will find the coolest way to output Hello World!
+We are going to add about 1000 more versions of hello world.  We will find the most efficient(sp?) (I think cool is better) way to output Hello World!
