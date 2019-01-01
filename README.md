@@ -7,3 +7,5 @@ So I must learn to tame the monster called GIT!
 
 
 We are going to add about 1000 more versions of hello world.  We will find the coolest way to output Hello World!
+
+Learning about merging when there are multiple branches of hello world.  
